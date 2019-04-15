@@ -1,4 +1,4 @@
-# helpchildre
+# Small Nets trained on CIFAR10
 
 ## Prerequisites
 
